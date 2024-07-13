@@ -1,0 +1,9 @@
+body{
+    background-color: darksalmon;
+}
+.score{
+    font-size: 60px;
+}
+.timer{
+    float: right;
+}
